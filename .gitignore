@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+home-credit-default-risk
+
+.DS_STORE
+feature_importance.png
+result.csv
