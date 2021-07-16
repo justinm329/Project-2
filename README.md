@@ -1,3 +1,8 @@
-# Project-2
+# Home Credit Risk Model
+
+## Summary:
+* The purpose of this project is to show how automating loans can be cost effective for financial institutions, and to prove that having a credit score does not have to used. The data we used was from Kaggle, and this data was used to help determine home loan applications. Our goal was to use this data to determine if we could use this to approve just unsecured loan and credit cards. However, after doing some analysis it was determined that this data was not good for that. We decided to tackle the Kaggle question of predicting home loans. We used four models to do this, Logistic Regression, Random Forest, Neural Networks and Gradient Boosting. We combined and cleaned all the datasets that was provided and ran each model. We determined that since data was unbalanced Logistic Regression was not a good model to use. We also ran into difficulties when combining the data because the csv files were overlapping causing overfitting. Once we figured this out it was determined that the Gradient Boosting Model was the most accurate. The Neural Network is a possible second however the data was not cleaned properly so the score is off a bit, once it is fixed, we predict this would be the second best. The Random Forest Classifier once it was tuned the right was able to make ok predictions however it was not a model that would work in the real world. If more techniques were used like hyper parameter, it could possibly produce better results. If any model was used to predict whether a person would default or not on a home loan this could save financial institutions a lot of money. It could save clients time and make more money for the company by eliminating jobs, and create a positive customer experience by approving loans in a timely manner.
+
+* The data that was used is in the link below:
 
 https://drive.google.com/drive/folders/12lt73pCd-lLwWxNR5AOnZlYwsGznHPAf
