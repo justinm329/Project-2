@@ -8,8 +8,11 @@
 
 ## Data Files
 
-* The data that was used is in the link below:
+* The data that was used is in the link below as well as the kaggle link:
+
 https://drive.google.com/drive/folders/12lt73pCd-lLwWxNR5AOnZlYwsGznHPAf
+
+https://www.kaggle.com/c/home-credit-default-risk
 
 ## Libraries and Dependencies
 - [numpy](https://numpy.org/)
